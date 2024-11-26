@@ -4,7 +4,7 @@ Una aplicación web simple para gestionar una lista de tareas, desarrollada util
 
 ## Video Presentación
 
-
+https://github.com/user-attachments/assets/4b76d098-6d8d-40d4-bf8b-98ff4a3ff884
 
 ## Características
 
